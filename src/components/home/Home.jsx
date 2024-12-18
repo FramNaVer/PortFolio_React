@@ -1,11 +1,8 @@
 import React from 'react'
-import { Social } from './Social'
-import { Data } from './Data'
-import {ScrollDown} from './ScrollDown'
 import './home.css'
-
-
-
+import { Social } from './Social'
+import { Data } from './Data'   
+import {ScrollDown} from './ScrollDown'
 
 
 export const Home = () => {

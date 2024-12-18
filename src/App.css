@@ -172,7 +172,7 @@ img {
     }
 
     .button {
-        padding: 1rem 1.75rem;
+        padding: 1rem 1.5rem;
     }
 
     .button__icon {
@@ -185,10 +185,6 @@ img {
 @media screen and (max-width: 768px) {
     body {
         margin: 0 0 var(--header-height) 0;
-    }
-
-    .section {
-        padding: 2rem 0 4rem;
     }
 
     .section__subtitle {
