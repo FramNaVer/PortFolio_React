@@ -17,7 +17,7 @@ const Services = () => {
                     <div>
                         <i className="uil uil-browser services__icon"></i>
                         <h3 className="services__title">
-                            Product <br /> Designer
+                            Web <br /> Development
                         </h3>
                     </div>
 
@@ -29,16 +29,16 @@ const Services = () => {
                         <div className="services__model-content">
                             <i onClick={() => toggleTab(0)} className="uil uil-times services__model-close"></i>
                             <h3 className="services__model-title">
-                                Product Designer
+                                Web Designer & Development
                             </h3>
                             <p className="services__model-description">
-                                Service with more than 3 year of expreience.
+                                Skills and experience performed.
                             </p>
                             
                             <ul className="services__model-services grid">
                                 <li className="services__model-service">
                                     <i className="uil uil-check-circle services__model-icon"></i>
-                                    <p className="services__model-info">I develop the user interface.</p>
+                                    <p className="services__model-info">Custom Software Solutions.</p>
                                 </li>
 
                                 <li className="services__model-service">
@@ -53,12 +53,12 @@ const Services = () => {
 
                                 <li className="services__model-service">
                                     <i className="uil uil-check-circle services__model-icon"></i>
-                                    <p className="services__model-info">I position your compay brand.</p>
+                                    <p className="services__model-info">API Integration.</p>
                                 </li>
 
                                 <li className="services__model-service">
                                     <i className="uil uil-check-circle services__model-icon"></i>
-                                    <p className="services__model-info">Design and mockups of products for companies.</p>
+                                    <p className="services__model-info">Full-Stack Development.</p>
                                 </li>
                             </ul>
                         </div>
@@ -69,7 +69,7 @@ const Services = () => {
                     <div>
                         <i className="uil uil-web-grid services__icon"></i>
                         <h3 className="services__title">
-                            UX/UI <br /> Designers
+                            AI/ML <br /> Services
                         </h3>
                     </div>
 
@@ -81,36 +81,36 @@ const Services = () => {
                         <div className="services__model-content">
                             <i onClick={() => toggleTab(0)} className="uil uil-times services__model-close"></i>
                             <h3 className="services__model-title">
-                                UX/UI Designer
+                                Artificial intelligence & Machine learning
                             </h3>
                             <p className="services__model-description">
-                                Service with more than 3 year of expreience UX/UI Designer.
+                                Skills and experience performed.    
                             </p>
                             
                             <ul className="services__model-services grid">
                                 <li className="services__model-service">
                                     <i className="uil uil-check-circle services__model-icon"></i>
-                                    <p className="services__model-info">I develop the user interface.</p>
+                                    <p className="services__model-info">Machine Learning Model Development.</p>
                                 </li>
 
                                 <li className="services__model-service">
                                     <i className="uil uil-check-circle services__model-icon"></i>
-                                    <p className="services__model-info">Web Page Development.</p>
+                                    <p className="services__model-info">Data Preprocessing & Feature Engineering.</p>
                                 </li>
 
                                 <li className="services__model-service">
                                     <i className="uil uil-check-circle services__model-icon"></i>
-                                    <p className="services__model-info">I create ux element interactions.</p>
+                                    <p className="services__model-info">Deep Learning Solutions.</p>
                                 </li>
 
                                 <li className="services__model-service">
                                     <i className="uil uil-check-circle services__model-icon"></i>
-                                    <p className="services__model-info">I position your compay brand.</p>
+                                    <p className="services__model-info">AI Integration for Businesses.</p>
                                 </li>
 
                                 <li className="services__model-service">
                                     <i className="uil uil-check-circle services__model-icon"></i>
-                                    <p className="services__model-info">Design and mockups of products for companies.</p>
+                                    <p className="services__model-info">Model Deployment.</p>
                                 </li>
 
                             </ul>
@@ -122,7 +122,7 @@ const Services = () => {
                     <div>
                         <i className="uil uil-desktop services__icon"></i>
                         <h3 className="services__title">
-                            Visual <br/> Designers
+                            Game <br/> Development
                         </h3>
                     </div>
 
@@ -134,36 +134,31 @@ const Services = () => {
                         <div className="services__model-content">
                             <i onClick={() => toggleTab(0)} className="uil uil-times services__model-close"></i>
                             <h3 className="services__model-title">
-                                Visual Designers
+                                Game Development
                             </h3>
                             <p className="services__model-description">
-                                Service with more than 3 year of expreience three.
+                                Skills and experience performed.    
                             </p>
                             
                             <ul className="services__model-services grid">
                                 <li className="services__model-service">
                                     <i className="uil uil-check-circle services__model-icon"></i>
-                                    <p className="services__model-info">I develop the user interface.</p>
+                                    <p className="services__model-info">Game Design and Prototyping.</p>
                                 </li>
 
                                 <li className="services__model-service">
                                     <i className="uil uil-check-circle services__model-icon"></i>
-                                    <p className="services__model-info">Web Page Development.</p>
+                                    <p className="services__model-info">2D/3D Game Development.</p>
                                 </li>
 
                                 <li className="services__model-service">
                                     <i className="uil uil-check-circle services__model-icon"></i>
-                                    <p className="services__model-info">I create ux element interactions.</p>
+                                    <p className="services__model-info">Design in-game characters.</p>
                                 </li>
 
                                 <li className="services__model-service">
                                     <i className="uil uil-check-circle services__model-icon"></i>
-                                    <p className="services__model-info">I position your compay brand.</p>
-                                </li>
-
-                                <li className="services__model-service">
-                                    <i className="uil uil-check-circle services__model-icon"></i>
-                                    <p className="services__model-info">Design and mockups of products for companies.</p>
+                                    <p className="services__model-info">Unity and the unreal engine.</p>
                                 </li>
 
                             </ul>

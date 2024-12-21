@@ -6,6 +6,7 @@ import Home from './components/home/Home.jsx'
 import About from './components/about/About.jsx';
 import Skills from './components/skills/Skills.jsx';
 import Services from './components/services/Services.jsx';
+import Qualification from './components/qualification/Qualification.jsx';
 
 export const App = () => {
   return (
@@ -16,6 +17,7 @@ export const App = () => {
         <About/>
         <Skills/>
         <Services/>
+        <Qualification/>
       </main>
     </>
 
